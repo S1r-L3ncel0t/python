@@ -1,0 +1,4 @@
+price = input("Cost on the bill: ")
+tax = 1.2
+total_price = price * tax
+print("Your total price comes down to $"+total_price+". Please have a nice day!")
